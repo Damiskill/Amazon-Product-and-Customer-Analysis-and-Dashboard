@@ -1,0 +1,2 @@
+# Amazon-Product-and-Customer-Analysis-and-Dashboard
+This project focuses on e-commerce analytics solutions to sellers on platforms like Amazon. It started with understanding the dataset, and removal of duplicate product ID. The general category of products was also split into sub categories while blanks and invalid data were replaced with proper data. After this exploratory data analysis was done.
