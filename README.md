@@ -1,5 +1,5 @@
 # Amazon-Product-and-Customer-Analysis-and-Dashboard
-This project focuses on e-commerce analytics solutions to sellers on platforms like Amazon. It  provides analyis and corresponding dashboard views using Microsoft Excel Software. The project started with understanding the dataset, and removal of duplicate product ID, the splitting of compound features into sub features while blanks and invalid data were replaced with proper data. After tthese, exploratory data analysis was done.
+This project focuses on e-commerce analytics solutions to sellers on platforms like Amazon. It  provides analyis and corresponding dashboard views using Microsoft Excel Software. The project started with understanding the dataset, and removal of duplicate product ID, the splitting of compound features into sub features while blanks and invalid data were replaced with proper data. After tthese, exploratory data analysis was done. Find attached, to this repository, the Microsoft Excel file for this project.
 # Introduction
 The Dataset used consists of several features, ranging from quantitative to qualititative dsta categories. The following are labels of the data.
 - Product ID
