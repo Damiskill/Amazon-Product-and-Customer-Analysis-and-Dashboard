@@ -4,17 +4,26 @@
 [![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)]()
 [![Made with ❤️ by Damiskill](https://img.shields.io/badge/Made%20with-❤️%20by%20Damiskill-critical?style=flat-square)]()
 
+---
 
 ## 📘 Project Overview  
 
-![Excel Dashboard Preview](https://github.com/yourusername/Amazon-Excel-Dashboard/blob/main/dashboard_preview.png)
+![Excel Dashboard Preview](https://github.com/Damiskill/Amazon-Product-and-Customer-Analysis-and-Dashboard/blob/main/Amazon1.png)
 
 **Tool Used:** Microsoft Excel (Pivot Tables, Calculated Columns, and Dashboards)  
 
 This project analyzes **Amazon product and customer review data** to generate insights that can help sellers optimize pricing, marketing, and customer satisfaction.  
 The dashboard summarizes discounts, ratings, revenue potential, and product performance across multiple categories.
 
+---
+
 ## 🧾 Dataset Description  
+
+**Snip of the Raw Dataset:**
+![Snip of the Raw Dataset](https://github.com/Damiskill/Amazon-Product-and-Customer-Analysis-and-Dashboard/blob/main/Amazon%20raw.png)
+
+**Snip of the Cleaned Dataset:**
+![Snip of the Cleaned Dataset](https://github.com/Damiskill/Amazon-Product-and-Customer-Analysis-and-Dashboard/blob/main/Amazon%20cleaned.png)
 
 The dataset contains **1,465 records** and **16 fields**, including:
 
@@ -22,6 +31,7 @@ The dataset contains **1,465 records** and **16 fields**, including:
 - 🧍 **Customer engagement:** Review titles, content, and counts  
 - 📦 **Each record** represents one unique product with aggregated reviewer information.
 
+---
 
 ## 🎯 Analysis Objectives  
 
@@ -42,8 +52,11 @@ The following questions guided the analysis:
 13. Which categories have the highest discount totals?  
 14. Identify the top 5 products in terms of ratings and reviews combined.  
 
+---
 
 ## 📊 Key Findings & Insights  
+
+![Pivot Table Snipshot](https://github.com/Damiskill/Amazon-Product-and-Customer-Analysis-and-Dashboard/blob/main/Pivot.jpg)
 
 ### 1️⃣ Average Discount Percentage by Product Category  
 
@@ -75,6 +88,7 @@ The following questions guided the analysis:
 | **Total** | **1,351** |
 
 💡 **Insight:** Electronics dominate the dataset, making up ~36% of all listed products.
+
 
 
 ### 3️⃣ Total Reviews by Category  
@@ -214,13 +228,16 @@ The following questions guided the analysis:
 
 💡 **Insight:** Amazon Basics and boAt brands dominate in customer satisfaction and engagement.
 
+---
+
 
 ## 📈 Dashboard Snapshot  
 
 > Below is a preview of the interactive Excel Dashboard summarizing the above findings:
 
-![Amazon Excel Dashboard](https://github.com/yourusername/Amazon-Excel-Dashboard/blob/main/amazon_dashboard.png)
+![Amazon Excel Dashboard](https://github.com/Damiskill/Amazon-Product-and-Customer-Analysis-and-Dashboard/blob/main/Amazon%202.png)
 
+---
 
 ## 🧰 Tools & Skills Used  
 
@@ -246,6 +263,7 @@ The following questions guided the analysis:
 * Creating interactive dashboards with slicers and visuals
 * Deriving insights from structured e-commerce datasets
 
+---
 
 ## 📬 Connect with Me
 
