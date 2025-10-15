@@ -16,7 +16,7 @@ The dashboard summarizes discounts, ratings, revenue potential, and product perf
 
 ## 🧾 Dataset Description  
 
-The dataset was scraped from Amazon product pages and contains **1,465 records** and **16 fields**, including:
+The dataset contains **1,465 records** and **16 fields**, including:
 
 - 🏷️ **Product details:** Name, Category, Price, Discount, and Ratings  
 - 🧍 **Customer engagement:** Review titles, content, and counts  
